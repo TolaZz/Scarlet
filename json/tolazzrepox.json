@@ -130,6 +130,13 @@
 		"appstore": "com.miniclip.agar.io",
 		"bundleID": "com.miniclip.agar.io",
 		"category": "Hacked Games"
+	}, {
+		"name":"Free Fire Max",
+		"down": "https://resources.usescarlet.com/repo/IPAs/agario.ipa",
+		"version":"2.90.2",
+		"appstore": "com.dts.freefiremax",
+		"bundleID": "com.dts.freefiremax",
+		"category": "Hacked Games"
 	}],
 	"Emulators": [{
 		"name": "iNDS",
